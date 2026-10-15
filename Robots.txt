@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mtaufikht27-ai.github.io/Membran-Bakar-Bali/sitemap.xml
